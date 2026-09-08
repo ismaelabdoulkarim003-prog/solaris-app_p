@@ -1,0 +1,26 @@
+{
+  "name": "SOLARIS",
+  "short_name": "SOLARIS",
+  "id": "/solaris-app-prototype/",
+  "description": "Une application pour apprendre, pratiquer, construire et développer ses projets.",
+  "start_url": "/solaris-app-prototype/",
+  "scope": "/solaris-app-prototype/",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#f57c00",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/solaris-app-prototype/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/solaris-app-prototype/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
